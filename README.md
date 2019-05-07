@@ -11,18 +11,18 @@
 일반적으로 코드 블락이 담겨있는 Markdown을 보시면 아래와 같이 코드의 앞뒤로 ```python ... ```이 적혀있습니다. 
 
 ```shell
- ```python    
- sentence = 'hello world'
- print(sentence)
- ```
+#```python    
+#sentence = 'hello world'
+#print(sentence)
+#```
 ```
 
 하지만 Notion에서 Export All as Markdown을 해서 압축된 파일을 풀고 Markdown을 열어보면 그 안에 Code Block이 아래와 같이 되어있는 것을 확인 하실 수 있습니다. 
 
 
 ```shell
- sentence = 'hello world'
- print(sentence)
+#sentence = 'hello world'
+#print(sentence)
 ```
 
 
