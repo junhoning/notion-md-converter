@@ -1,0 +1,14 @@
+---
+title: "업무자동화 with GDG Jeju"
+author: [이호준]
+date: "2019-04-13"
+subject: "Markdown"
+keywords: [Markdown, Example]
+subtitle: "파이썬으로 함께 하는 업무자동화"
+lang: "kr"
+titlepage: true
+titlepage-color: "06386e"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 1
+...

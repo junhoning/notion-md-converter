@@ -1,0 +1,17 @@
+---
+title: "Automate Python with GDG Jeju"
+author: [HoJune Lee]
+date: "2019-04-13"
+subject: "Markdown"
+keywords: [python, automate]
+subtitle: "Automate Python"
+lang: "KR"
+header: Automate Python
+footer: with GDG
+geometry: margin=1.5in
+titlepage: false
+titlepage-color: "06386e"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 1
+...
