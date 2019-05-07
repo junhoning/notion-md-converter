@@ -28,7 +28,7 @@
 [https://pandoc.org/installing.html](https://pandoc.org/installing.html)
 
 ## 변환기로 변환하기
-
+먼저 같은 폴더 안에 md-files라는 폴더를 만듭니다. converter를 통해 변환된 md들이 이 폴더로 옮겨지게 됩니다. 
 
 ```shell
 md_converter.py와 변환하고 압축푼 폴더와 같은 경로에 위치해주고, cmd창을 열어서 해당 경로로 이동해줍니다.   
