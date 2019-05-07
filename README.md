@@ -8,22 +8,13 @@
 
 # Notion에서의 Markdown
 
-일반적으로 코드 블락이 담겨있는 Markdown을 보시면 아래와 같이 코드의 앞뒤로 주석들이 적혀있습니다. (앞 뒤로 주석'''를 넣으려했지만, 여기 MD에선 자꾸 주석처리가 되어버려 앞에 #을 넣었음을 이해바랍니다)
+일반적으로 코드 블락이 담겨있는 Markdown을 보시면 아래와 같이 코드의 앞뒤로 주석들이 있습니다.
 
-```shell
-#```python    
-#sentence = 'hello world'
-#print(sentence)
-#```
-```
+![](example1-d463f950-a82a-483c-832b-1a919b4dde75.png)
 
-하지만 Notion에서 Export All as Markdown을 해서 압축된 파일을 풀고 Markdown을 열어보면 그 안에 Code Block이 아래와 같이 되어있는 것을 확인 하실 수 있습니다. 
+하지만 Notion에서 Export All as Markdown을 해서 압축된 파일을 풀고 Markdown을 열어보면 그 안에 Code Block이 아래와 같이 각 코드 한줄한줄 앞에 tap만 되어있을 뿐 코드 하이라이트 처리가 되어있지 않는 것을 확인 하실 수 있습니다. 
 
-
-```shell
-#    sentence = 'hello world'
-#    print(sentence)
-```
+![](Untitled-fd1a1648-41a1-4809-8d1b-b1b2a78b2d88.png)
 
 
 # 사용법
