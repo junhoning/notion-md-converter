@@ -2,16 +2,13 @@
 
 ---
 
-- 현재 버젼에서는 파이썬이 설치가 되어있어야 사용이 가능합니다. 파이썬을 설치 하면서라도 쓰실 분은 아래의 주소에서 다운받아 설치 하시면 됩니다. 
-[https://www.python.org/downloads/](https://www.python.org/downloads/)
-추후에 파이썬이 아니어도 할 수 있도록 만들겠습니다.
+- 현재 버젼에서는 파이썬이 설치가 되어있어야 사용이 가능합니다. 파이썬을 설치 하면서라도 쓰실 분은 아래의 주소에서 다운받아 설치 하시면 됩니다.  
+[https://www.python.org/downloads/](https://www.python.org/downloads/)  
+추후에 파이썬이 아니어도 할 수 있도록 만들겠습니다.  
 
 # Notion에서의 Markdown
 
----
-
 일반적으로 코드 블락이 담겨있는 Markdown을 보시면 아래와 같이 코드의 앞뒤로 ```python ... ```이 적혀있습니다. 
-
 
 ```shell
 ```python    
@@ -28,7 +25,6 @@ sentence = 'hello world'
 print(sentence)
 ```
 
-현재 이 깃헙에 담겨있는 코드는 
 
 # 사용법
 
